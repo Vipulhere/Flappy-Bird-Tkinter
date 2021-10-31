@@ -1,0 +1,9 @@
+{
+  "window_fullscreen": true,
+  "window_width": null,
+  "window_height": null,
+  "bird_event": "<Up>",
+  "window_fullscreen_event": "<F11>",
+  "window_start_event": "<Return>",
+  "window_exit_event": "<Escape>"
+}
